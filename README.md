@@ -40,7 +40,7 @@ PrepWise is your ultimate companion for interview preparation, blending cutting-
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/PriyanshuNaredi/Ai-Mock-Interview.git
    cd prepwise
    ```
 
@@ -75,6 +75,9 @@ PrepWise is your ultimate companion for interview preparation, blending cutting-
    ```bash
    npm run dev
    ```
+
+5. **Access the Application**:
+   Open [https://ai-mock-interview-smoky.vercel.app/](https://ai-mock-interview-smoky.vercel.app/) in your browser.
 
 ---
 
