@@ -87,14 +87,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-## 🤝 Contributors
-
-- **Core Development Team**: Building the foundation of PrepWise.
-- **VAPI Integration Support**: Enhancing voice interaction capabilities.
-- **Google Gemini Model Team**: Powering intelligent feedback generation.
-
----
-
 ## 🙌 Acknowledgments
 
 - **VAPI**: For enabling seamless voice interaction.
